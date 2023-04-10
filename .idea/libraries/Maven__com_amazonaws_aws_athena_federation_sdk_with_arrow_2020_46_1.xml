@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:aws-athena-federation-sdk:with-arrow:2020.46.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-athena-federation-sdk/2020.46.1/aws-athena-federation-sdk-2020.46.1-with-arrow.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-athena-federation-sdk/2020.46.1/aws-athena-federation-sdk-2020.46.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-athena-federation-sdk/2020.46.1/aws-athena-federation-sdk-2020.46.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
